@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/protobuf_android_sample-master.iml" filepath="$PROJECT_DIR$/.idea/modules/protobuf_android_sample-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/protobuf_android_sample-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/protobuf_android_sample-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/protobuf_android_sample-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/protobuf_android_sample-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/protobuf_android_sample-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/protobuf_android_sample-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/protobuf_android_sample-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/protobuf_android_sample-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/protobuf/protobuf_android_sample-master.protobuf.iml" filepath="$PROJECT_DIR$/.idea/modules/protobuf/protobuf_android_sample-master.protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/protobuf/protobuf_android_sample-master.protobuf.main.iml" filepath="$PROJECT_DIR$/.idea/modules/protobuf/protobuf_android_sample-master.protobuf.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/protobuf/protobuf_android_sample-master.protobuf.test.iml" filepath="$PROJECT_DIR$/.idea/modules/protobuf/protobuf_android_sample-master.protobuf.test.iml" />
+    </modules>
+  </component>
+</project>
